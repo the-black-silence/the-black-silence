@@ -3,5 +3,5 @@
 </div>
 
 <p align="center">
-$\color{blue}\text{he/any . omni . mlw . taken}$
+$\color{#130070}\text{he/any . omni . mlw . taken}$
 </p>
