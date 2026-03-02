@@ -6,5 +6,5 @@
 $\color{#1C1B9E}\text{he/any . omni}$
 </p>
 <p align="center">
-$\color{#1C1B9E}\text{18+ iwc i am a youngin}$
+$\color{#1C1B9E}\text{those 18+ iwc i am <16}$
 </p>
