@@ -3,5 +3,8 @@
 </p>
 
 <p align="center">
-$\color{#1C1B9E}\text{he/any . omni . mlw . taken}$
+$\color{#1C1B9E}\text{he/any . omni}$
+</p>
+<p align="center">
+$\color{#1C1B9E}\text{18+ iwc i am a youngin}$
 </p>
