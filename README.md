@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=60% src="https://cdn.discordapp.com/attachments/1265829936157950054/1476403253544489040/tumblr_inline_n699ugFQmN1r523r6540.gif?ex=69d26f6d&is=69d11ded&hm=bad1e859153aa35fe36b230912223c2163edb40313d5fe69e49650378a9da02a&" alt="ᓚᘏᗢ" />
+  <img width=60% src="https://media.discordapp.net/attachments/1265829936157950054/1476403253544489040/tumblr_inline_n699ugFQmN1r523r6540.gif?ex=69dcfb6d&is=69dba9ed&hm=c4a3d1a3a02eaf5ba5104d4c3d26cee747730e682e1475f700734d9034fe8faa&=" alt="ᓚᘏᗢ" />
 </p>
 
 <p align="center">
